@@ -376,9 +376,9 @@
 function xZold() {
   //var spin = Math.floor(Math.random() * 10 + 1) * 36;
   var spin = 350;
-  var link1 = "https://bit.ly/2TgN3V8";
-  var link2 = "https://bit.ly/3676Dbn";
-  var link3 = "https://bit.ly/2LDYlyc";
+  var link1 = "https://bit.ly/39AJe5q";
+  var link2 = "https://bit.ly/39AJe5q";
+  var link3 = "https://bit.ly/39AJe5q";
 
   $(".wheel").rotate({
     angle: 0,
